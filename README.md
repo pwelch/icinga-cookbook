@@ -1,4 +1,4 @@
-# <a name="title"></a> icinga-cookbook [![Build Status](https://secure.travis-ci.org/mdxp/icinga-cookbook.png)](http://travis-ci.org/mdxp/icinga-cookbook)
+icinga-cookbook
 
 DESCRIPTION:
 ===========
